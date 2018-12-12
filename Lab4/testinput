@@ -1,0 +1,31 @@
+ECE 2220 Fall 2016
+MP4
+test0 : commands in PDF and template code
+G 0
+j
+G 142
+j
+j
+f FF
+r AB CD
+/Blue Ridge
+/Blue Ridge
+s /Blue/Red /
+/Where the Blue Ridge yaw
+/Where the Blue Ridge yaw
+/clemson
+/.lemson
+/.lems.n
+/.ear.
+f 43
+s /Clems.n/Clems.n/
+s /Cl.ms.n/Cl.ms?n/
+s /Cl\.ms.n/Clemson/
+s /a.b/a.b/
+s /a\.b/a/b/
+s /a\/b/a\b/
+s /a\\b./a+b\/
+/a+b\
+/Where the Blue Ridge yawns its greatness, where the Tigers play, here the sons of dear old Clemson reign supreme alway.
+q
+
